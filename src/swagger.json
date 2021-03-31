@@ -32,8 +32,8 @@
                   }
                 },
                 "example": {
-                  "name": "Rocketseat",
-                  "email": "oi@rocketseat.com.br"
+                  "name": "Example",
+                  "email": "email@email.com"
                 }
               }
             }
@@ -69,8 +69,8 @@
                   "example": {
                     "admin": false,
                     "id": "c5c739c0-4576-47a4-82f5-8b314d2eba21",
-                    "name": "Rocketseat",
-                    "email": "oi@rocketseat.com.br",
+                    "name": "Example",
+                    "email": "email@email.com",
                     "created_at": "2021-03-21T20:32:40.759Z",
                     "updated_at": "2021-03-21T20:32:40.759Z"
                   }
@@ -146,16 +146,16 @@
                       {
                         "admin": true,
                         "id": "c5c739c0-4576-47a4-82f5-8b314d2eba21",
-                        "name": "Rocketseat",
-                        "email": "oi@rocketseat.com.br",
+                        "name": "Example",
+                        "email": "email@email.com",
                         "created_at": "2021-03-21T20:32:40.759Z",
                         "updated_at": "2021-03-21T20:32:40.759Z"
                       },
                       {
                         "admin": false,
                         "id": "d32e9e4e-43cd-4f64-a393-4f0158c9e348",
-                        "name": "Vinícius Fraga",
-                        "email": "vinicius.fraga@rocketseat.com.br",
+                        "name": "Lucas rodrigues",
+                        "email": "contato.luccarodrigues@gmail.com",
                         "created_at": "2021-03-10T23:14:43.081Z",
                         "updated_at": "2021-03-10T23:14:43.081Z"
                       }
@@ -231,8 +231,8 @@
                   "example": {
                     "admin": false,
                     "id": "c5c739c0-4576-47a4-82f5-8b314d2eba21",
-                    "name": "Rocketseat",
-                    "email": "oi@rocketseat.com.br",
+                    "name": "Example",
+                    "email": "email@examil.com",
                     "created_at": "2021-03-21T20:32:40.759Z",
                     "updated_at": "2021-03-21T20:32:40.759Z"
                   }
@@ -306,8 +306,8 @@
                   "example": {
                     "admin": true,
                     "id": "c5c739c0-4576-47a4-82f5-8b314d2eba21",
-                    "name": "Rocketseat",
-                    "email": "oi@rocketseat.com.br",
+                    "name": "Example",
+                    "email": "email@example.com",
                     "created_at": "2021-03-21T20:32:40.759Z",
                     "updated_at": "2021-03-21T20:32:40.759Z"
                   }
